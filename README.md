@@ -8,6 +8,7 @@ Cách chạy project backend:
   DB_PASSWORD=
   DB_NAME=
 - chạy npm run dev
+  
 Cách chạy project frontend:
 - npm install
 - tạo .evn:REACT_APP_API_URL=http://localhost:5000/api
