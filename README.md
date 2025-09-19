@@ -10,6 +10,7 @@ Cách chạy project backend:
 - chạy npm run dev
   
 Cách chạy project frontend:
+- cd frontend
 - npm install
 - tạo .evn:REACT_APP_API_URL=http://localhost:5000/api
 - chạy:npm start
